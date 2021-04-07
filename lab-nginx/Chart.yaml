@@ -1,0 +1,13 @@
+apiVersion: v2
+name: labNginx
+description: This chart was created to deploy a ngnix application in a kubernet cluster.
+type: application
+version: 0.1.0
+keywords:
+  - nginx
+  - webserver
+appVersion: "1.19.9"
+maintaners:
+  - name: Joao Claudio
+    email: joaoclaudiobr@gmail.com
+deprecated: false
